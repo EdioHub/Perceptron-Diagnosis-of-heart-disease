@@ -1,16 +1,17 @@
 # Perceptron-Diagnóstico de doença cardíaca
 
 ## Diagnóstico de Problemas Cardíacos
-###Introdução: 
+### Introdução: 
 
 Este projeto tem como objetivo desenvolver um modelo de diagnóstico médico para identificar a existência de problemas cardíacos em pacientes, utilizando uma base de dados médicos contendo informações de exames realizados. A análise desses dados pode auxiliar na detecção precoce de doenças cardíacas e na tomada de decisões médicas.
 
 ### Pré-processamento dos dados: 
 
 Antes da construção do modelo, realizamos um pré-processamento dos dados. As seguintes etapas foram executadas:
-    1. Transformação em one-hot encoding: Para melhor processamento dos dados categóricos, utilizamos a técnica de one-hot encoding.
+
+1. Transformação em one-hot encoding: Para melhor processamento dos dados categóricos, utilizamos a técnica de one-hot encoding.
     
-    2. Normalização: Realizamos a normalização das seguintes variáveis: 'idade', 'pressão', 'colesterol', 'freq_crd_max' e 'depressão ST'. Essa etapa é importante para garantir que as variáveis estejam na mesma escala e facilitar o treinamento do modelo.
+2. Normalização: Realizamos a normalização das seguintes variáveis: 'idade', 'pressão', 'colesterol', 'freq_crd_max' e 'depressão ST'. Essa etapa é importante para garantir que as variáveis estejam na mesma escala e facilitar o treinamento do modelo.
     
 ### Construção do modelo: 
 
