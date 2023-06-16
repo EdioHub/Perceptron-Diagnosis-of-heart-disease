@@ -21,7 +21,7 @@ Desenvolvemos uma rede neural utilizando um perceptron implementado do zero, sem
 
 Criamos um Callback para capturar o melhor conjunto de pesos (weights) e bias durante o treinamento. Esse Callback nos permitiu monitorar a métrica escolhida e guardar os melhores valores obtidos.
 
-##Avaliação do modelo:
+## Avaliação do modelo:
 
 Realizamos a avaliação do modelo utilizando três métricas: F1-score, Recall e Acurácia. Essas métricas fornecem insights sobre o desempenho do modelo em diferentes aspectos.
 
