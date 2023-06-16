@@ -29,6 +29,7 @@ Realizamos a avaliação do modelo utilizando três métricas: F1-score, Recall 
 
 Os modelos avaliados com acurácia e F1-score apresentaram desempenho semelhante, com acurácia = 0.9135 e F1-score = 0.8888. No entanto, considerando a natureza do problema de diagnóstico médico, a minimização de falsos negativos é essencial para evitar que pacientes doentes sejam erroneamente classificados como saudáveis.
 Nesse sentido, o modelo avaliado com a métrica Recall obteve um valor de 0.9444, identificando corretamente 94,44% dos pacientes doentes. 
-Trabalho acadêmico re4alizado em parceria com João Pedro Brito
+
+Trabalho acadêmico realizado em parceria com João Pedro Brito
 
 
